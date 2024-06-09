@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> e3c128b87a6192febe41f5ed60a26c7955634cf5
 Victory.
 
 That is what the preachers cry from the spires of their temples.
@@ -43,4 +46,4 @@ Victory, as humanity rages against the dying of the light.
 
 Victory...
 
-- Roboute Guilliman
+- Robotic Guillisuit
